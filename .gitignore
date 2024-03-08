@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+cogs/__pycache__/
+utils/__pycache__/
+/.vscode
+/.cache
+/.gitconfig
+/.local
+config/
